@@ -1,4 +1,4 @@
-model,fold,score
+model,fold,auc
 LogisticRegression,0,0.9996410856009069
 LogisticRegression,1,0.9995429864654195
 LogisticRegression,2,0.9998726704223356
